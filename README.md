@@ -33,8 +33,12 @@ Download the zipped dataset includes all images and related .txt files like show
 ![95b5950256875de9b8c8237f77b7194](https://user-images.githubusercontent.com/99760789/156487627-c606e03f-76d3-43fb-8731-fc182e6d09e1.png)
 4. Define Helper Functions<br />
 ![201a368b6de66408c48dcc2d70825ad](https://user-images.githubusercontent.com/99760789/156487936-21a80d11-d28b-4c7b-9328-95ccc5e1e872.png)
-5. Run Your Detections with Darknet and YOLOv4!
+5. Run Your Detections with Darknet and YOLOv4!<br />
 ![9366cf94f1b88e48147cb28657518ca](https://user-images.githubusercontent.com/99760789/156488011-5de69ac2-70f8-4a4d-81ab-bbe8636a0b9e.png)
+6. Uploading Local or Google Drive Files to Use<br />
+We recommend to create a Google Drive Folder and put enerything into Google Drive for use
+![e773e7d9cc44fd8db8850acb0e149ee](https://user-images.githubusercontent.com/99760789/156488197-e435435c-cd55-4e34-b10e-c4d0dee08f61.png)
+7. 
 
 
 
