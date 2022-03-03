@@ -32,8 +32,8 @@ Download the zipped dataset includes all images and related .txt files like show
 3. Download pre-trained YOLOv4 weights<br />
 ![95b5950256875de9b8c8237f77b7194](https://user-images.githubusercontent.com/99760789/156487627-c606e03f-76d3-43fb-8731-fc182e6d09e1.png)
 4. Define Helper Functions<br />
-5. 
-
+![201a368b6de66408c48dcc2d70825ad](https://user-images.githubusercontent.com/99760789/156487936-21a80d11-d28b-4c7b-9328-95ccc5e1e872.png)
+5. Run Your Detections with Darknet and YOLOv4!
 
 
 
