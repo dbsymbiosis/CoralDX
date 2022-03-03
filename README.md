@@ -30,4 +30,38 @@ Download the zipped dataset includes all images and related .txt files like show
 2. Cloning and Building Darknet<br />
 ![258e8e97c2ab3f8861b6bc6730b8291](https://user-images.githubusercontent.com/99760789/156487412-6400bfd3-1d38-436b-adba-bb933de8d56c.png)
 3. Download pre-trained YOLOv4 weights<br />
+![95b5950256875de9b8c8237f77b7194](https://user-images.githubusercontent.com/99760789/156487627-c606e03f-76d3-43fb-8731-fc182e6d09e1.png)
+4. Define Helper Functions<br />
+5. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
