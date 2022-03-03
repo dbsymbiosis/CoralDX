@@ -24,7 +24,7 @@ Download the zipped dataset includes all images and related .txt files like show
 
 
 ## Train custom detector in Google Colab
-[![Train Custom Model In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_GdoqCJWXsChrOiY8sZMr_zbr_fH-0Fg?usp=sharing)
+[![Train Custom Model In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_GdoqCJWXsChrOiY8sZMr_zbr_fH-0Fg?usp=sharing) Before start the journey, make a copy of this Colab file.
 1. Enabling GPU within your notebook<br />
 ![d0d318308b8a04ba3a94d1ec327a3c7](https://user-images.githubusercontent.com/99760789/156487290-dd54f88f-1572-4df2-b004-7e634db5da36.png)
 2. Cloning and Building Darknet<br />
@@ -39,17 +39,21 @@ Download the zipped dataset includes all images and related .txt files like show
 We recommend to create a Google Drive Folder called yolov4 and put enerything into Google Drive for use<br />
 ![6151825886ad39a3a628dc2449877fc](https://user-images.githubusercontent.com/99760789/156489104-b819ae2d-acbc-4e14-b72d-410f21aff1ea.png)
 The follwing list is the files need to upload into the Googlr Drive<br />
-![df1eb079741e20d8bb341fbc6a7d2cf](https://user-images.githubusercontent.com/99760789/156489897-54d35a04-f711-444f-b662-4a42236a288a.png)
+![df1eb079741e20d8bb341fbc6a7d2cf](https://user-images.githubusercontent.com/99760789/156489897-54d35a04-f711-444f-b662-4a42236a288a.png)<br />
+Copy of YOLOv4.ipynb: copy of this Colab tutorial file<br />
 images: images for test custom detector<br />
-backup: store weights file<br />
-yolov4-obj.cfg: configuration file<br />
+backup: create empty folder to store weights file<br />
 obj.zip: change name of train folder to obj and compress<br />
 test.zip: change name of valid folder to test and compress<br />
+yolov4-obj.cfg: configuration file<br />
+
+
 obj.names: group names<br />
 obj.data: directions of files<br />
 generate_train.py: configuration files to train our custom detector are the train.txt training images<br />
-generate_test.py:: configuration files to train our custom detector are the test.txt testing images<br />
+generate_test.py: configuration files to train our custom detector are the test.txt testing images<br />
 classes.txt: group names<br />
+
 
 
 
