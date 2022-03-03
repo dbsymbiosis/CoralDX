@@ -28,5 +28,6 @@ Download the zipped dataset includes all images and related .txt files like show
 1. Enabling GPU within your notebook<br />
 ![d0d318308b8a04ba3a94d1ec327a3c7](https://user-images.githubusercontent.com/99760789/156487290-dd54f88f-1572-4df2-b004-7e634db5da36.png)
 2. Cloning and Building Darknet<br />
+![258e8e97c2ab3f8861b6bc6730b8291](https://user-images.githubusercontent.com/99760789/156487412-6400bfd3-1d38-436b-adba-bb933de8d56c.png)
+3. Download pre-trained YOLOv4 weights<br />
 
-4. 
