@@ -47,7 +47,7 @@ obj.zip: change name of train folder to obj and compress<br />
 test.zip: change name of valid folder to test and compress<br />
 ![13395d487ed5d8a7a537eb924252d64](https://user-images.githubusercontent.com/99760789/156493447-8e4e6f70-2fe6-4c84-a86f-036e7acfc8fa.png)<br />
 yolov4-obj.cfg: configuration file<br />
-
+![1ebdf19dc1b69652f6bc676f18fff58](https://user-images.githubusercontent.com/99760789/156493594-80522aa9-17d9-42bc-99f3-01adbc6494c5.png)<br />
 
 obj.names: group names<br />
 obj.data: directions of files<br />
