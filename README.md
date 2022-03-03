@@ -48,11 +48,13 @@ test.zip: change name of valid folder to test and compress<br />
 ![13395d487ed5d8a7a537eb924252d64](https://user-images.githubusercontent.com/99760789/156493447-8e4e6f70-2fe6-4c84-a86f-036e7acfc8fa.png)<br />
 yolov4-obj.cfg: configuration file<br />
 ![1ebdf19dc1b69652f6bc676f18fff58](https://user-images.githubusercontent.com/99760789/156493594-80522aa9-17d9-42bc-99f3-01adbc6494c5.png)<br />
-
 obj.names: group names<br />
 obj.data: directions of files<br />
+Put group names in obj.names file and change the classes number for custom detector
+![3cd74b5b0b69b4fcd2297129bdbbed5](https://user-images.githubusercontent.com/99760789/156494828-17330600-7c08-44a0-a69e-e15771ad17d0.png)<br />
 generate_train.py: configuration files to train our custom detector are the train.txt training images<br />
 generate_test.py: configuration files to train our custom detector are the test.txt testing images<br />
+
 classes.txt: group names<br />
 
 
