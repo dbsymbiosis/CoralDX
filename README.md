@@ -11,3 +11,4 @@ After getting started, creating new project and annotating, we assigned images i
 ![f0a4936550ebb131a5cf985d230dd0c](https://user-images.githubusercontent.com/99760789/156479422-732e1d7b-d7c1-45d2-9d44-8ffe5ba7e78e.png)<br />
 Annotation sample:![ed8f7710c01f4b22005a57eb09dc4ef](https://user-images.githubusercontent.com/99760789/156478377-41172c87-93b7-42b7-a5ca-9a9d479a781e.png)<br />
 To annotate, use the second square tool in right white bar to square the target area, then group and name every target areas. 
+To generate dataset, in preprocessing section. We resized images in 416* 416 which can accelerate the training. Then download the zipped dataset includes all images and related .txt files like shown in images folder: 
