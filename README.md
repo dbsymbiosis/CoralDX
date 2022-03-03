@@ -50,12 +50,13 @@ yolov4-obj.cfg: configuration file<br />
 ![1ebdf19dc1b69652f6bc676f18fff58](https://user-images.githubusercontent.com/99760789/156493594-80522aa9-17d9-42bc-99f3-01adbc6494c5.png)<br />
 obj.names: group names<br />
 obj.data: directions of files<br />
-Put group names in obj.names file and change the classes number for custom detector
+Put group names in obj.names file and change the classes number for custom detector. Both file can be editedd from example files using Text Editor in cfg section.<br />
 ![3cd74b5b0b69b4fcd2297129bdbbed5](https://user-images.githubusercontent.com/99760789/156494828-17330600-7c08-44a0-a69e-e15771ad17d0.png)<br />
 generate_train.py: configuration files to train our custom detector are the train.txt training images<br />
 generate_test.py: configuration files to train our custom detector are the test.txt testing images<br />
-
+![b58c4c568501705e3c31a3fa9d3d08d](https://user-images.githubusercontent.com/99760789/156495019-189c595f-f90f-41cc-80f0-4813498eb7fb.png)
 classes.txt: group names<br />
+Edit example file using Text Editor and put group names in.<br />
 
 
 
