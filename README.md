@@ -45,6 +45,7 @@ images: images for test custom detector<br />
 backup: create empty folder to store weights file<br />
 obj.zip: change name of train folder to obj and compress<br />
 test.zip: change name of valid folder to test and compress<br />
+![13395d487ed5d8a7a537eb924252d64](https://user-images.githubusercontent.com/99760789/156493447-8e4e6f70-2fe6-4c84-a86f-036e7acfc8fa.png)<br />
 yolov4-obj.cfg: configuration file<br />
 
 
