@@ -25,3 +25,4 @@ Download the zipped dataset includes all images and related .txt files like show
 
 ## Train custom detector in Google Colab
 [![Train Custom Model In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_GdoqCJWXsChrOiY8sZMr_zbr_fH-0Fg?usp=sharing)
+1. Enabling GPU within your notebook
