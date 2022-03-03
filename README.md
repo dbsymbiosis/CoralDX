@@ -13,3 +13,6 @@ Annotation sample:![ed8f7710c01f4b22005a57eb09dc4ef](https://user-images.githubu
 To annotate, use the second square tool in right white bar to square the target area, then group and name every target areas. 
 To generate dataset, in preprocessing section. We resized images in 416* 416 which can accelerate the training before downing annotated dataset: ![32fff1758cb5304017ab60be2cb7dec](https://user-images.githubusercontent.com/99760789/156482596-06d385ad-003d-489d-b997-52949351b6c9.png)  <br /> 
 Then download the zipped dataset includes all images and related .txt files like shown in images folder: ![9d7e3ded18702bbafbc578ca574cb30](https://user-images.githubusercontent.com/99760789/156482401-83e1e3f8-ffbe-4194-bb4d-89a36f65fbbb.png)
+
+
+## Train custom detector in Google Colab
