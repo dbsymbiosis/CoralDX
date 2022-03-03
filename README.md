@@ -27,3 +27,6 @@ Download the zipped dataset includes all images and related .txt files like show
 [![Train Custom Model In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_GdoqCJWXsChrOiY8sZMr_zbr_fH-0Fg?usp=sharing)
 1. Enabling GPU within your notebook<br />
 ![d0d318308b8a04ba3a94d1ec327a3c7](https://user-images.githubusercontent.com/99760789/156487290-dd54f88f-1572-4df2-b004-7e634db5da36.png)
+2. Cloning and Building Darknet<br />
+
+4. 
