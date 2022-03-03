@@ -34,7 +34,7 @@ Download the zipped dataset includes all images and related .txt files like show
 4. Define Helper Functions<br />
 ![201a368b6de66408c48dcc2d70825ad](https://user-images.githubusercontent.com/99760789/156487936-21a80d11-d28b-4c7b-9328-95ccc5e1e872.png)
 5. Run Your Detections with Darknet and YOLOv4!
-
+![9366cf94f1b88e48147cb28657518ca](https://user-images.githubusercontent.com/99760789/156488011-5de69ac2-70f8-4a4d-81ab-bbe8636a0b9e.png)
 
 
 
