@@ -36,8 +36,15 @@ Download the zipped dataset includes all images and related .txt files like show
 5. Run Your Detections with Darknet and YOLOv4!<br />
 ![9366cf94f1b88e48147cb28657518ca](https://user-images.githubusercontent.com/99760789/156488011-5de69ac2-70f8-4a4d-81ab-bbe8636a0b9e.png)
 6. Uploading Local or Google Drive Files to Use<br />
-We recommend to create a Google Drive Folder and put enerything into Google Drive for use
+We recommend to create a Google Drive Folder and put enerything into Google Drive for use<br />
 ![6151825886ad39a3a628dc2449877fc](https://user-images.githubusercontent.com/99760789/156489104-b819ae2d-acbc-4e14-b72d-410f21aff1ea.png)
+The follwing list is the files need to upload into the Googlr Drive<br />
+images: images for test custom detector
+backup: store weights file
+yolov4-obj.cfg: configuration file
+obj.zip: change name of train folder to obj and compress
+test.zip: change name of valid folder to test and compress
+obj.names
 ![df1eb079741e20d8bb341fbc6a7d2cf](https://user-images.githubusercontent.com/99760789/156489897-54d35a04-f711-444f-b662-4a42236a288a.png)
 
 
