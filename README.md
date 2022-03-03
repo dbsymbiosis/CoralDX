@@ -37,8 +37,8 @@ Download the zipped dataset includes all images and related .txt files like show
 ![9366cf94f1b88e48147cb28657518ca](https://user-images.githubusercontent.com/99760789/156488011-5de69ac2-70f8-4a4d-81ab-bbe8636a0b9e.png)
 6. Uploading Local or Google Drive Files to Use<br />
 We recommend to create a Google Drive Folder and put enerything into Google Drive for use
-![e773e7d9cc44fd8db8850acb0e149ee](https://user-images.githubusercontent.com/99760789/156488197-e435435c-cd55-4e34-b10e-c4d0dee08f61.png)
-7. 
+![6151825886ad39a3a628dc2449877fc](https://user-images.githubusercontent.com/99760789/156489104-b819ae2d-acbc-4e14-b72d-410f21aff1ea.png)
+
 
 
 
