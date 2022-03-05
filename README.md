@@ -61,7 +61,43 @@ Edit example file using Text Editor and put group names in.<br />
 ![image](https://user-images.githubusercontent.com/99760789/156896712-82ebdbd1-cbc9-4d06-ad85-4af8ee86c634.png)<br />
 
 ## Deploy .weights file into the Tensorflow
+Download Tensorflow folder to local drive. We recommend to use Gitbash shell to deliver command and visual studio code as editor.<br />
+1. Set up Conda environment<br />
+We recommend to download Anaconda to set up tensorflow environment. Then deliver command in Gitbash shell to create and activate GPU or CPU.<br />
 
+Tensorflow CPU<br />
+conda env create -f conda-cpu.yml<br />
+conda activate yolov4-cpu<br />
+
+Tensorflow GPU<br />
+conda env create -f conda-gpu.yml<br />
+conda activate yolov4-gpu<br />
+
+2. Download 'yolov4-obj_best.weights' file from backup folder.<br />
+
+3. Use custom trained detector<br />
+
+Copy and paste your custom .weights file into the 'data' folder and copy and paste your custom .names into the 'data/classes/' folder.<br />
+
+The only change within the code you need to make in order for your custom model to work is on line 14 of 'core/config.py' file. Update the code to point at your custom .names file as seen below. (my custom .names file is called custom.names but yours might be named differently)<br />
+![image](https://user-images.githubusercontent.com/99760789/156898001-df800ec3-0478-44ad-8ffc-82f9b6f14920.png)<br />
+
+4. Convert yolov4 detector to Tensorflow detector<br />
+python save_model.py --weights ./data/yolov4.weights --output ./checkpoints/yolov4-416 --input_size 416 --model yolov4 <br />
+Paste this command into Gitbash.<br />
+
+5. Crop and save target areas as new images<br />
+python detect.py --weights ./checkpoints/yolov4-416 --size 416 --model yolov4 --images ./data/images/'your image name'.jpg --crop<br />
+Imput this command into Gitbash, make sure replace'your image name' to your image name.<br />
+6. Measure RGB values in Matlab.<br />
+Use .m MATLAB file to measure cropped images, make sure to use correct directory.<br />
+![image](https://user-images.githubusercontent.com/99760789/156898578-0350354d-71fa-4aa9-8eb9-e1885a128318.png)<br />
+7. Test TestStripDX.<br />
+Predict, predict and crop images.<br />
+![3c7df9efa8480c71d55df8defe897db](https://user-images.githubusercontent.com/99760789/156899115-35268c08-938d-4c40-8d95-a781382dfe52.png)<br />
+Note: The showing labels are not related to the actual reagents, but the showing labels are exact same for each images. So, we correct this in .m file. We will retrain the model to try to correct this error.<br />
+Measure RGB values.<br />
+![4eb2e7d3cee213a42dfdbd4567ca0c9](https://user-images.githubusercontent.com/99760789/156899174-25a657f6-9c7c-4c9b-b394-28e9b76d6a49.png)
 
 
 
