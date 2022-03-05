@@ -90,8 +90,9 @@ Paste this command into Gitbash.<br />
 python detect.py --weights ./checkpoints/yolov4-416 --size 416 --model yolov4 --images ./data/images/'your image name'.jpg --crop<br />
 Imput this command into Gitbash, make sure replace'your image name' to your image name.<br />
 6. Measure RGB values in Matlab.<br />
-Use .m MATLAB file to measure cropped images, make sure to use correct directory and the number of coral nubbins.<br />
-![de01834f872134cce6ef3820606da09](https://user-images.githubusercontent.com/99760789/156899525-77d99b42-bcf5-4b9f-9b9d-f53f4dffe82c.png)
+Use .m MATLAB file to do image processing and measure cropped images, make sure to use correct directory and the number of coral nubbins.<br />
+![de01834f872134cce6ef3820606da09](https://user-images.githubusercontent.com/99760789/156899525-77d99b42-bcf5-4b9f-9b9d-f53f4dffe82c.png)<br />
+Image processing is utilizing the edge detection and a series of dialation, holes filling, border clear, erosion to isolate coral nubbin from background.<br />
 7. Test TestStripDX.<br />
 Predict, predict and crop images.<br />
 ![image](https://user-images.githubusercontent.com/99760789/156899597-8c5b9665-24f5-4e42-9424-8d7ded514d67.png)<br />
