@@ -93,6 +93,12 @@ Imput this command into Gitbash, make sure replace'your image name' to your imag
 Use .m MATLAB file to do image processing and measure cropped images, make sure to use correct directory and the number of coral nubbins.<br />
 ![de01834f872134cce6ef3820606da09](https://user-images.githubusercontent.com/99760789/156899525-77d99b42-bcf5-4b9f-9b9d-f53f4dffe82c.png)<br />
 Image processing is utilizing the edge detection and a series of dialation, holes filling, border clear, erosion to isolate coral nubbin from background.<br />
+
+7. Test CoralDX.<br />
+Predict, predict and crop images.<br />
+![image](https://user-images.githubusercontent.com/99760789/156899597-8c5b9665-24f5-4e42-9424-8d7ded514d67.png)<br />
+Do image processing and measure RGB values.<br />
+MATLAB will give R, G, and B values for coral nubbins and color blocks.<br />
 ![5b76de5198d7668c3860f0bd3d7c7b2](https://user-images.githubusercontent.com/99760789/156899961-15b90d2a-9e05-44aa-9c69-777e92b25b9d.png)<br />
 ![e215d9ba0543684abf87a006bf4dbd9](https://user-images.githubusercontent.com/99760789/156899964-c4916941-4e51-4f61-a5a1-6c884bfcb8a1.png)<br />
 ![3fc6f4c5e624136da29e80bbcf76913](https://user-images.githubusercontent.com/99760789/156899965-8b3d606c-14e8-4074-bc0b-06f119009b85.png)<br />
@@ -100,11 +106,6 @@ Image processing is utilizing the edge detection and a series of dialation, hole
 ![d4050fa685dc16955b0a83b417c2c79](https://user-images.githubusercontent.com/99760789/156899968-05e50b00-0b69-411d-b80c-ada511409d32.png)<br />
 ![94dea1d50060a1a7625780d74c517cd](https://user-images.githubusercontent.com/99760789/156899997-baed4341-359c-49f0-9589-13df38572cc8.png)<br />
 ![7c3c3de3e8b9ee9551dbc1f157eadfc](https://user-images.githubusercontent.com/99760789/156899971-65dab5f8-3632-4d07-9bbb-381fbd339bf6.png)<br />
-7. Test CoralDX.<br />
-Predict, predict and crop images.<br />
-![image](https://user-images.githubusercontent.com/99760789/156899597-8c5b9665-24f5-4e42-9424-8d7ded514d67.png)<br />
-Do image processing and measure RGB values.<br />
-MATLAB will give R, G, and B values for coral nubbins and color blocks.<br />
 ![image](https://user-images.githubusercontent.com/99760789/156899646-31c10662-3b3c-4511-9136-b73df2240391.png)<br />
 
 
