@@ -96,7 +96,7 @@ Use .m MATLAB file to measure cropped images, make sure to use correct directory
 Predict, predict and crop images.<br />
 ![image](https://user-images.githubusercontent.com/99760789/156899597-8c5b9665-24f5-4e42-9424-8d7ded514d67.png)<br />
 
-Measure RGB values.<br />
+Do image processing and measure RGB values.<br />
 ![4eb2e7d3cee213a42dfdbd4567ca0c9](https://user-images.githubusercontent.com/99760789/156899174-25a657f6-9c7c-4c9b-b394-28e9b76d6a49.png)
 
 
