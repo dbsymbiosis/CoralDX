@@ -90,8 +90,8 @@ Paste this command into Gitbash.<br />
 python detect.py --weights ./checkpoints/yolov4-416 --size 416 --model yolov4 --images ./data/images/'your image name'.jpg --crop<br />
 Imput this command into Gitbash, make sure replace'your image name' to your image name.<br />
 6. Measure RGB values in Matlab.<br />
-Use .m MATLAB file to measure cropped images, make sure to use correct directory.<br />
-![image](https://user-images.githubusercontent.com/99760789/156898578-0350354d-71fa-4aa9-8eb9-e1885a128318.png)<br />
+Use .m MATLAB file to measure cropped images, make sure to use correct directory and the number of coral nubbins.<br />
+![de01834f872134cce6ef3820606da09](https://user-images.githubusercontent.com/99760789/156899525-77d99b42-bcf5-4b9f-9b9d-f53f4dffe82c.png)
 7. Test TestStripDX.<br />
 Predict, predict and crop images.<br />
 ![3c7df9efa8480c71d55df8defe897db](https://user-images.githubusercontent.com/99760789/156899115-35268c08-938d-4c40-8d95-a781382dfe52.png)<br />
