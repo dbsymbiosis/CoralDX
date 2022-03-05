@@ -97,7 +97,8 @@ Predict, predict and crop images.<br />
 ![image](https://user-images.githubusercontent.com/99760789/156899597-8c5b9665-24f5-4e42-9424-8d7ded514d67.png)<br />
 
 Do image processing and measure RGB values.<br />
-![4eb2e7d3cee213a42dfdbd4567ca0c9](https://user-images.githubusercontent.com/99760789/156899174-25a657f6-9c7c-4c9b-b394-28e9b76d6a49.png)
+MATLAB will give R, G, and B values for coral nubbins and color blocks.
+![image](https://user-images.githubusercontent.com/99760789/156899646-31c10662-3b3c-4511-9136-b73df2240391.png)
 
 
 
