@@ -26,6 +26,9 @@ While generating dataset, your screen will look like this: <br />
 #### 6. Export and Download <br />
 After generating the dataset, click on the 'Export' option to export and download your dataset. <br /> 
 ![export option](https://user-images.githubusercontent.com/77503347/187276282-9d194f83-3890-4f15-85a8-cb54a2ab78c1.png) <br /> 
+In the pop-up dialog box, select 'YOLO Darknet' format and 'Download zip to computer' option. <br />
+![export settings](https://user-images.githubusercontent.com/77503347/187276697-09bd6df6-8452-4d6a-a3c6-b277eb1931a2.png) <br /> 
+
 
 Download the zipped dataset includes all images and related .txt files like shown in images folder: ![9d7e3ded18702bbafbc578ca574cb30](https://user-images.githubusercontent.com/99760789/156482401-83e1e3f8-ffbe-4194-bb4d-89a36f65fbbb.png)<br />
 
