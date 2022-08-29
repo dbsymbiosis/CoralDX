@@ -25,7 +25,7 @@ While generating dataset, your screen will look like this: <br />
 ![generating loading screen](https://user-images.githubusercontent.com/77503347/187273187-eb2118a2-51c9-40f8-9a73-6462a6a67ee0.png)<br />
 #### 6. Export and Download <br />
 After generating the dataset, click on the 'Export' option to export and download your dataset. <br /> 
-![export option](https://user-images.githubusercontent.com/77503347/187275314-c8182d0c-86e7-4909-84a3-7854014dcf5b.jpeg) <br /> 
+![export option](https://user-images.githubusercontent.com/77503347/187276070-4575ab81-664f-4f0e-8fdb-91e44d1a91f4.png) <br /> 
 
 Download the zipped dataset includes all images and related .txt files like shown in images folder: ![9d7e3ded18702bbafbc578ca574cb30](https://user-images.githubusercontent.com/99760789/156482401-83e1e3f8-ffbe-4194-bb4d-89a36f65fbbb.png)<br />
 
