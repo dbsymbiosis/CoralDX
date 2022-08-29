@@ -19,7 +19,10 @@ Assign images into train and valid datasets which are for training and validing 
 ![f0a4936550ebb131a5cf985d230dd0c](https://user-images.githubusercontent.com/99760789/156479422-732e1d7b-d7c1-45d2-9d44-8ffe5ba7e78e.png)<br />
 #### 5. Generate dataset<br />
 To generate dataset, in preprocessing section. We resized images in 416* 416 which can accelerate the training before downing annotated dataset: <br />
-![32fff1758cb5304017ab60be2cb7dec](https://user-images.githubusercontent.com/99760789/156482596-06d385ad-003d-489d-b997-52949351b6c9.png)  <br /> 
+![32fff1758cb5304017ab60be2cb7dec](https://user-images.githubusercontent.com/99760789/156482596-06d385ad-003d-489d-b997-52949351b6c9.png)  <br /> <br />
+For Augmentation, press Continue. <br /> 
+While generating dataset, your screen will look like this: <br />
+![generating loading screen](https://user-images.githubusercontent.com/77503347/187273187-eb2118a2-51c9-40f8-9a73-6462a6a67ee0.png)<br />
 #### 6. Download <br />
 Download the zipped dataset includes all images and related .txt files like shown in images folder: ![9d7e3ded18702bbafbc578ca574cb30](https://user-images.githubusercontent.com/99760789/156482401-83e1e3f8-ffbe-4194-bb4d-89a36f65fbbb.png)<br />
 
